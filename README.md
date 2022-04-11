@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Lemache de Castro</h1>
-<h3 align="center">A passionate fullstack developer from Brazil, learning swift development</h3>
+<h3 align="center">A passionate IOS developer from Brazil</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
